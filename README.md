@@ -1,2 +1,2 @@
-# Gaurav_AdvancedJavascript_gradedproj3
+# Harshita_AdvancedJavascript_gradedproj3
 Graded Coding Assignment 3
